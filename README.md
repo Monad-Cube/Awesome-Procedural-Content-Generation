@@ -7,6 +7,7 @@ Collection of procedural generation method and projection
 - [Object](#Object)
 - [Indoor Room](#IR)
 - [Tutorial](#Tutorial)
+- [Reference](#Reference)
 
 <a name="Landscape"></a>
 ## Landscape
@@ -38,3 +39,12 @@ Collection of procedural generation method and projection
 |   Type  | Venue | Software |   Blog   |   Video  |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |Terrain| GDC 2023 | UE |:--------:|[click-to-videol](https://www.youtube.com/watch?v=aoCGLW53fZg)|:--------:|
+
+<a name="Reference"></a>
+## Reference
+- conference  
+Game Developers Conference  https://gdconf.com/  
+
+- journal
+
+- workshop
