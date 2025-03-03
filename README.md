@@ -33,7 +33,8 @@ Collection of procedural generation method and projection
 ## Indoor Room
 |   Type  | Venue | Software |   Paper/Blog   |   Video/Website  |   Code   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|LLM| CVPR24 | Unity | [arxiv](https://arxiv.org/abs/2312.09067)|[homepage](https://yueyang1996.github.io/holodeck/)|[git](https://github.com/allenai/Holodeck)|
+|LLM| CVPR24 | Unity | [arxiv](https://arxiv.org/abs/2312.09067)|[homepage](https://yueyang1996.github.io/holodeck/)|[git](https://github.com/allenai/Holodeck)|  
+
 <a name="Tutorial"></a>
 ## Tutorial
 |   Type  | Venue | Software |   Blog   |   Video  |   Code   |
